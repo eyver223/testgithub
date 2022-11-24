@@ -24,6 +24,7 @@ namespace testgithub
         {
             InitializeComponent();
             int a;
+            int qte = 5;
         }
     }
 }
