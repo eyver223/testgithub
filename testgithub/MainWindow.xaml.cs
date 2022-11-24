@@ -26,7 +26,6 @@ namespace testgithub
             int a;
             int b = 0;
             //tester2
-           //test3test4
         }
     }
 }
