@@ -23,6 +23,7 @@ namespace testgithub
         public MainWindow()
         {
             InitializeComponent();
+            int a;
         }
     }
 }
